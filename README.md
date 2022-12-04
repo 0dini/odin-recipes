@@ -8,4 +8,8 @@ unordered. i will also need too work with diffrent text types. I might also
 have a few links too other pages aswell.
 
 ---
-Update once finished
+Refelction
+
+I have now finished the recipes project, i have not learned much more than
+before but it refreshed my memory of HTML a lot. I now feel a little better
+equiped too begin with CSS. 
